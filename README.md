@@ -1,4 +1,5 @@
-
-#####    USING:  Python, R, math & stat methodologies
-#####  CURRENTLY LEARNING:  computer science, Cloud technologies, Big Data
-#####   CURIOUS:  all about DS and information society, history, actuality, politics and more
+Hi This is Giulia Ciardi, Developer and Data Scientist @RES
+🔭 I’m currently working on Python applications
+🌱 I’m currently learning Cloud technologies, MLOps and more Python
+💬 Ask me about Statistics and learning together something new
+📫 How to reach me: https://www.linkedin.com/in/giulia-ciardi-20b04ab3/
