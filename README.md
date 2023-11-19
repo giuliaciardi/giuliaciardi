@@ -1,2 +1,1 @@
-- Hi This is Giulia Ciardi, Data Scientist
-- 📫 How to reach me: https://www.linkedin.com/in/giulia-ciardi/
+📫 How to reach me: https://www.linkedin.com/in/giulia-ciardi/
